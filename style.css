@@ -1,0 +1,30 @@
+body{
+  background:crimson;
+  font-family:'Times New Roman', Times, serif;
+}
+.copy-right-footer{
+  
+  background:white;
+position: fixed;
+bottom: 0;
+font-size: 20;
+text-align:center ;
+line-height: 3;
+width: 100%;
+font-family:'Courier New', Courier, monospace;
+}
+
+.main_div button{   
+   font-family: 'Roboto', sans-serif;    
+   margin-top: 30px;    
+   width: 130px;    
+   font-weight: bolder;    
+   letter-spacing: 3px;  
+  }
+
+.header_div{
+font-family: 'Roboto Mono', monospace;
+color: black;
+background: turquoise;
+
+  }
